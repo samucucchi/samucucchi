@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**samucucchi/samucucchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🤓 Currently studying Data Science and Business Informatics at the University of Pisa 
