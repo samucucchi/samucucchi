@@ -5,6 +5,7 @@
 - 🌱 Interested in nature, sustainability and outdoor activities 
 - 🎓 Bachelor degree in Computer Science at the University of Pisa 
 
+
 How to reach me: 
 - 💬 [Telegram](https://t.me/samucc)
 - 💼 [Linkedin](https://www.linkedin.com/in/samuele-cucchi-68724311a/)
