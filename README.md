@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🤓 Currently studying Data Science and Business Informatics at the University of Pisa 
 - 🌱 Interested in nature, sustainability and outdoor activities 
 - 🎓 Bachelor degree in Computer Science at the University of Pisa 
