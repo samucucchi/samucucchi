@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🏠 Based in Pisa
+- 💼 Working as Data Scientist at Seacom S.R.L.
 - 🤓 Currently studying Data Science and Business Informatics at the University of Pisa 
 - 🌱 Interested in nature, sustainability and outdoor activities 
 - 🎓 Bachelor degree in Computer Science at the University of Pisa 
