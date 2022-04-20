@@ -7,10 +7,7 @@
 - 🎓 Bachelor degree in Computer Science at the University of Camerino 
 
 
-How to reach me: 
-- 💬 [Telegram](https://t.me/samucc)
-- 💼 [Linkedin](https://www.linkedin.com/in/samuele-cucchi-68724311a/)
-- 📨 [Email](s.cucchi@outlook.com)
+You can reach me via  [Telegram](https://t.me/samucc), [Linkedin](https://www.linkedin.com/in/samuele-cucchi-68724311a/) or [Email](s.cucchi@outlook.com)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samucucchi)](https://github.com/anuraghazra/github-readme-stats)
